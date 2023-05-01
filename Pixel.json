@@ -1,0 +1,173 @@
+{
+    "name": "Pixel",
+    "description": "A theme idk",
+    "authors": [
+        {
+            "name": "atyanex",
+            "id": "1009909324010749954"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+        
+            "#ffffff",
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#44ddd5",
+            "#44ddd5"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#44ddd5",
+            "#44ddd5"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080",
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#44ddd5",
+            "#44ddd5"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#081924",
+            "#081924"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#44ddd5",
+            "#44ddd5"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#081924",
+            "#081924"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#081924",
+            "#081924"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#081924",
+            "#081924"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "081924",
+            "081924"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#A9966A",
+            "#d8c28f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#999999",
+            "#999999"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4",
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#44ddd5",
+            "#44ddd5"
+        ],
+        "KEYBOARD": [
+            "#081924",
+            "#081924"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff",
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+    "PRIMARY_DARK": "#4d4463",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#ffffff",
+    "PRIMARY_360": "#44ddd5",
+    "PRIMARY_400": "#A9966A",
+    "PRIMARY_500": "#44ddd5",
+    "PRIMARY_600": "#081924",
+    "PRIMARY_630": "#282237",
+    "PRIMARY_660": "#081924",
+    "PRIMARY_700": "#081924",
+    "PRIMARY_800": "#081924",
+    "BRAND_260": "#44ddd5",
+    "BRAND_360": "#44ddd5",
+    "BRAND_500": "#44ddd5",
+    "BRAND_560": "#ffffff",
+    "BRAND_900": "#ffffff",
+    "BRAND_NEW": "#a297c3",
+    "YELLOW_300": "#44ddd5",
+    "GREEN_360": "#44ddd5",
+    "DANGER": "#44ddd5",
+    "RED_400": "#44ddd5"
+    },
+  
+      "background": {
+    "blur": 0.5,
+    "url": "https://cdn.discordapp.com/attachments/1094690402533130301/1102427916224176250/bg.gif",
+    "alpha": 0.7
+    },
+    "color": "#081924"
+}
