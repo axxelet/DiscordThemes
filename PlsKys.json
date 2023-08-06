@@ -224,9 +224,10 @@
     "url": "",
     "blur": 1,
     "alpha": 0.6
-  "plus":{
-   "version":"0",
-   "iconpack":"rosiecord-plumpy",
+"plus": {
+	"version": 0,
+	"iconPack": "rosiecord-plumpy"
+}
   },
   "color": "#D2042D"
 }
