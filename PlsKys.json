@@ -224,10 +224,12 @@
     "url": "",
     "blur": 1,
     "alpha": 0.6
-"plus": {
-	"version": 0,
-	"iconPack": "rosiecord-plumpy"
-}
-  },
+},
+    "plus":{
+   "version":"0",
+   "iconpack":"rosiecord-plumpy",
+   "icons":{
+       "ic_new_pins":["#e64553"]}
+},
   "color": "#D2042D"
 }
