@@ -292,7 +292,7 @@
    "plus":{
        "version":"0",
        "customOverlays": true,
-       "iconpack":"rosiecord-plumpy",
+       "iconpack":"rosiecord-iconsax",
        "icons":{
           "AccessibilityIcon": "#8bd5ca",
           "account": "#8aadf4",
