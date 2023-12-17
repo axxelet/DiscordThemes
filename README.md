@@ -1,4 +1,1 @@
-some of me enmity themes, for the modded discord on ios
-
-
-(garbage themes)
+themes for discord. use them if u want
