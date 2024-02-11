@@ -23,11 +23,11 @@
 **/
 :root {
   /* DefaultBlue */
-  --fluent-accent-hue-sat: 4°, 0%, 100%;
+  --fluent-accent-hue-sat: 207, 100%;
   --fluent-accent-lightness: 42%;
   --fluent-text-on-accent-color: 0, 0, 0;
-  --fluent-acrylic-background: url(https://www.ipadwallpaper.org/wp-content/uploads/2021/01/Dark-black-ipados-ipad-wallpaper.jpg);
-  --fluent-acrylic-background-blur: 4px;
+  --fluent-acrylic-background: url(https://media.discordapp.net/attachments/1205037193421258773/1205234970264871013/GxDDj1OxbpC3wLo9GRqYBvCy.png);
+  --fluent-acrylic-background-blur: 24px;
   --fluent-acrylic-background-dimness: 75%;
   --fluent-acrylic-background-saturate: 140%;
   --fluent-guilds-icon-size: 24px;
