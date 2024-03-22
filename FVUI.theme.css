@@ -105,7 +105,7 @@
 
 :root.theme-dark {
 	--color1: 30, 40, 50; /* Additional BG / Default= | 30, 40, 50 | (any raw rgb value) */
-	--color2: 9, 18, 24; /* Background / Default= | 9, 18, 24 | (any raw rgb value) */
+	--color2: 2, 0, 18; /* Background / Default= | 9, 18, 24 | (any raw rgb value) */
 	--color3: 35, 120, 200; /* Additional Color / Default= | 35, 120, 200 | (any raw rgb value) */
 	--color4: 63, 43, 150; /* Gradient Color / Default= | 63, 43, 150 | (any raw rgb value) */
 }
