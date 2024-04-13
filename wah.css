@@ -104,8 +104,8 @@
 }
 
 :root.theme-dark {
-	--color1: 10, 10, 10; /* Additional BG / Default= | 30, 40, 50 | (any raw rgb value) */
-	--color2: 10, 10, 10; /* Background / Default= | 9, 18, 24 | (any raw rgb value) */
+	--color1: 36, 30, 50; /* Additional BG / Default= | 30, 40, 50 | (any raw rgb value) */
+	--color2: 36, 30, 50; /* Background / Default= | 9, 18, 24 | (any raw rgb value) */
 	--color3: 187, 89, 229; /* Additional Color / Default= | 35, 120, 200 | (any raw rgb value) */
 	--color4: 118, 113, 202; /* Gradient Color / Default= | 63, 43, 150 | (any raw rgb value) */
 }
