@@ -104,10 +104,10 @@
 }
 
 :root.theme-dark {
-	--color1: 36, 30, 50; /* Additional BG / Default= | 30, 40, 50 | (any raw rgb value) */
-	--color2: 36, 30, 50; /* Background / Default= | 9, 18, 24 | (any raw rgb value) */
-	--color3: 187, 89, 229; /* Additional Color / Default= | 35, 120, 200 | (any raw rgb value) */
-	--color4: 118, 113, 202; /* Gradient Color / Default= | 63, 43, 150 | (any raw rgb value) */
+	--color1: 26, 22, 35; /* Additional BG / Default= | 30, 40, 50 | (any raw rgb value) */
+	--color2: 26, 22, 35; /* Background / Default= | 9, 18, 24 | (any raw rgb value) */
+	--color3: 210, 81, 111; /* Additional Color / Default= | 35, 120, 200 | (any raw rgb value) */
+	--color4: 221, 105, 144; /* Gradient Color / Default= | 63, 43, 150 | (any raw rgb value) */
 }
 :root.theme-light {
 	--color1: 211, 204, 227; /* Additional BG / Default= | 211, 204, 227 | (any raw rgb value) */
