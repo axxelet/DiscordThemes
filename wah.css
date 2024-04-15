@@ -95,7 +95,7 @@
 :root{
 	--cursor:url('https://cdn.discordapp.com/attachments/595306807795253258/1107955455436787722/pointer.cur'); /* Link to cursor / unset - to set standard */
 	--font: "Comfortaa"; /* The font must be pre-installed or imported */
-    --homeicon: url("https://cdn.discordapp.com/attachments/1094690402533130301/1228839534511394877/discord.png"); /* Link to image */
+    --homeicon: url("https://files.catbox.moe/hj3161.png"); /* Link to image */
 }
 
 :root{
