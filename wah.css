@@ -107,7 +107,7 @@
 	--color1: 0, 0, 0; /* Additional BG / Default= | 30, 40, 50 | (any raw rgb value) */
 	--color2: 16, 16, 16; /* Background / Default= | 9, 18, 24 | (any raw rgb value) */
 	--color3: 147, 121, 186; /* Additional Color / Default= | 35, 120, 200 | (any raw rgb value) */
-	--color4: 147, 121, 186; /* Gradient Color / Default= | 63, 43, 150 | (any raw rgb value) */
+	--color4: 0, 0, 0; /* Gradient Color / Default= | 63, 43, 150 | (any raw rgb value) */
 }
 :root.theme-light {
 	--color1: 211, 204, 227; /* Additional BG / Default= | 211, 204, 227 | (any raw rgb value) */
