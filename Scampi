@@ -1,0 +1,190 @@
+{
+  "name": "Scampi",
+  "description": "boohoo i had to use color name finder for this stupid name.",
+  "color": "#6460AF",
+  "authors": [
+    {
+      "name": "darealyeeto",
+      "id": "980160393093730395"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#c8c8c8",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#363636",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#111011",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#111011",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#111011",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#111011",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#201E25",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#201E25",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#FFFFFF"
+    ],
+    "CHAT_BACKGROUND": [
+      "#111011",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c8c8c8",
+      "#FFFFFF"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#111011",
+      "#FFFFFF"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#111011"
+    ],
+    "TEXT_LINK": [
+      "#6460AF",
+      "#FFFFFF"
+    ],
+    "KEYBOARD": [
+      "#111011",
+      "#FFFFFF"
+    ],
+    "CHANNEL_ICON": [
+      "#6460AF",
+      "#FFFFFF"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY": "#000000",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#C8C8C8",
+    "PRIMARY_400": "#808080",
+    "PRIMARY_500": "#6460AF",
+    "PRIMARY_600": "#111011",
+    "PRIMARY_630": "#1a1b21",
+    "PRIMARY_700": "#101010",
+    "PRIMARY_800": "#151515",
+    "PLUM_1": "#FFFFFF",
+    "PLUM_10": "#828282",
+    "PLUM_11": "#232223",
+    "PLUM_13": "#554C95",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#111011",
+    "PLUM_19": "#111011",
+    "PLUM_20": "#111011",
+    "PLUM_22": "#111011",
+    "BRAND_260": "#8a94a8",
+    "BRAND_500": "#6460AF",
+    "BRAND_900": "#111011",
+    "BRAND": "#8a94a8",
+    "YELLOW_300": "#ffffff",
+    "GREEN_600": "#ffffff",
+    "DANGER": "#6460AF",
+    "RED": "848484"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#111011"
+  },
+  "background": {
+    "url": "https://github.com/darealyeeto/EnmityLavender/assets/157327107/aa177b17-afcb-4b65-9954-41e58dd40e5c"
+  }
+}
