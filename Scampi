@@ -188,3 +188,19 @@
     "url": "https://github.com/darealyeeto/EnmityLavender/assets/157327107/aa177b17-afcb-4b65-9954-41e58dd40e5c"
   }
 }
+  },
+  "plus": {
+    "version": "0",
+    "iconPack": "rosiecord-plumpy",
+    "mentionLineColor": "#6460AF",
+    "customOverlays": true,
+    "icons": {
+        "trash": "#eb6f92",
+        "TrashIcon": "#eb6f92",
+        "TriangleExclamationPointIcon": "#eb6f92",
+        "toast_copy_link": "#ffccf4",
+        "toast_copy_message": "#feffff",
+        "toast_image_saved": "#feffff"    }
+  },
+  "spec": 2
+}
