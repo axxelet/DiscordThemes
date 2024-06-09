@@ -4,8 +4,8 @@
   "color": "#6460AF",
   "authors": [
     {
-      "name": "darealyeeto",
-      "id": "980160393093730395"
+      "name": "axxelet",
+      "id": "1009909324010749954"
     }
   ],
   "semanticColors": {
@@ -193,10 +193,10 @@
     "mentionLineColor": "#6460AF",
     "customOverlays": true,
     "icons": {
-        "trash": "#eb6f92",
-        "TrashIcon": "#eb6f92",
-        "TriangleExclamationPointIcon": "#eb6f92",
-        "toast_copy_link": "#ffccf4",
+        "trash": "#6460AF",
+        "TrashIcon": "#6460AF",
+        "TriangleExclamationPointIcon": "#6460AF",
+        "toast_copy_link": "#6460AF",
         "toast_copy_message": "#feffff",
         "toast_image_saved": "#feffff"    }
   },
